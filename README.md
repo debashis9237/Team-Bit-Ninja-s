@@ -1,5 +1,5 @@
 🏆 HackVerse 2026 – Official Submission
-###
+
 <div align="center">
 🥷 Team Bit-Ninjas
 Med-Bot Mini 2.0
